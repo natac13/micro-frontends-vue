@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../vue-single-spa-micro-shq"
+		}
+	],
+	"settings": {}
+}

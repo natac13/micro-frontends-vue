@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@foundationsoft/safteyhq": "http://localhost:5001/src/main.ts"
+  }
+}
